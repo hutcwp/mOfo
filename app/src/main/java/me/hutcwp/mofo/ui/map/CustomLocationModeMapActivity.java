@@ -30,6 +30,7 @@ public class CustomLocationModeMapActivity extends BaseMapActivity implements
 
     private static final String TAG = "CustomLocationModeMapAc";
 
+
     private AMap aMap;
     private OnLocationChangedListener mListener;
     private AMapLocationClientOption mLocationOption;

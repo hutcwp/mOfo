@@ -26,7 +26,6 @@
             android:value="cd29d9cc3fdea7812504dde24cfe97fb" />
 
         <activity android:name=".ui.MainActivity" />
-        <activity android:name=".ui.map.LocationActivity" />
         <activity android:name=".ui.map.CustomLocationModeMapActivity">
 
         </activity>
